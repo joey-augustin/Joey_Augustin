@@ -3,7 +3,10 @@
 Hi! I'm Joey—a Web Programming & Database Development student and lifelong learner. Welcome to my GitHub!
 
 ## Skills
-
+- Languages: C#, Java, HTML, CSS, JavaScript, Python
+- Frameworks: SQL, .NET, Figma
+- Areas of Interest: Databases, Web Development, UI/UX, AI
+  
 ## Projects/Repos
 
 ## Connect with me!
