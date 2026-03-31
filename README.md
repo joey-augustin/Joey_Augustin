@@ -1,6 +1,6 @@
 # Joey Augustin
 
-Hi! Welcome to my GitHub! I'm Joey, a Web Programming & Database Development student at Dunwoody College of Technology and lifelong learner.
+Hi! Welcome to my GitHub! I'm Joey, a first-year Web Programming & Database Development student at Dunwoody College of Technology and lifelong learner.
 
 ## Skills
 - Languages: C#, Java, HTML, CSS, JavaScript, Python
