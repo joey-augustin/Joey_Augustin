@@ -5,7 +5,7 @@ Hi! Welcome to my GitHub! I'm Joey, a first-year Web Programming & Database Deve
 ## Skills
 - Languages: C#, Java, HTML, CSS, JavaScript, Python
 - Frameworks: SQL, .NET, Figma
-- Areas of Interest: Databases, Web Development, UI/UX, AI
+- Areas of Interest: Front-End Development, UI/UX Design & Research, Database Development
   
 ## Projects/Repos
 
